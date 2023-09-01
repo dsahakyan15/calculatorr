@@ -1,0 +1,8 @@
+.buttons{
+    background-color: #ff0000ad;
+    width: 360px;
+    height: 450px;
+    display: flex;
+    border-radius: 0  0 40px 40px;
+    flex-wrap: wrap;
+}

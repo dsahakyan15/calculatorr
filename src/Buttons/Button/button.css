@@ -1,0 +1,8 @@
+.button{
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    align-items: center;
+    border:1px solid #000;
+    background-color: hsl(205.14deg 100% 14.51%)
+}
