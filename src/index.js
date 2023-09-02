@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css'
-import Buttons from './Buttons/Buttons';
+import Buttons from './Buttons';
 
 const App = ()=>{
     return (<div className="calc">
